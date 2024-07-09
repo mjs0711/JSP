@@ -5,7 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <title>쇼핑몰 회원관리</title>
-<link rel="stylesheet href="../css/style.css?ver=1.1.1">
+<link rel="stylesheet" href="../css/style.css?ver=1.1.1">
 </head>
 <body>
 <main id="footer">
