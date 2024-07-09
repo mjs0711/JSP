@@ -9,7 +9,7 @@
 </head>
 <body>
 <main id="header">
-<h1>쇼핑몰 회원관리 ver1.0</h1
+<h1>쇼핑몰 회원관리 ver1.0</h1>
 </main>
 </body>
 </html>
