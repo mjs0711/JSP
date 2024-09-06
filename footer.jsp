@@ -8,9 +8,9 @@
 <link rel="stylesheet" href="../css/style.css?ver=1.1.1">
 </head>
 <body>
-<main id="footer">
+	<main id="footer">
 	HRDKOREA Copyright&copy;2026 All rights reserved. Human Resources 
 Development Service of Korea.
-</main>
+	</main>
 </body>
 </html>
